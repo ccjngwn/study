@@ -45,9 +45,3 @@ public class MemberService {
         return memberRepository.findById(memberId);
     }
 }
-
-
-// cmd + opt + shift + L : 파일 전체 들여쓰기 정리
-// cmd + opt + v : 반환형으로 자동 변수 만들어주기
-// ctl + t : refactoring
-// cmd + shift + t : test 만들기
